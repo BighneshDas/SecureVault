@@ -77,7 +77,7 @@ SecureVault addresses this problem by providing a lightweight command-line appli
 
 ### Unsuccessfull authentication
 
-![SecureVault Authentication](images/authentication_2.png)
+![SecureVault Authentication_2](images/authentication_2.png)
 
 ### File Encryption
 
