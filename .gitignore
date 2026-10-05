@@ -1,0 +1,12 @@
+# Build files
+securevault
+*.o
+
+# Runtime data
+vault/*
+logs/*
+
+# Secrets
+*.key
+*.secret
+.env
