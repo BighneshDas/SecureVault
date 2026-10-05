@@ -83,10 +83,6 @@ SecureVault addresses this problem by providing a lightweight command-line appli
 
 ![SecureVault Encryption](images/encryption.png)
 
-### File Permissions
-
-![SecureVault Permissions](images/permissions.png)
-
 ### Activity Log
 
 ![SecureVault Activity Log](images/activity-log.png)
